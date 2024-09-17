@@ -1,0 +1,26 @@
+* {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  font-size: 2rem; /*40px*/
+}
+li {
+  font-size: 2em;
+}
+h1{
+  text-align: center;
+  line-height: 200%;
+  text-shadow: 5px 5px 10
+  px rgb(0, 0, 0);
+}
+p{
+  text-align:justify
+}
+body{
+  background-color:azure;
+}
+img {
+  filter: drop-shadow(10px 11px 6px rgb(113, 61, 1));
+}

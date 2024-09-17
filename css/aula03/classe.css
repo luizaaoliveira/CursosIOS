@@ -1,0 +1,11 @@
+.liraThiago {
+  color: blueviolet;
+  font-style: italic;
+  text-align:right;
+  padding: 50px;
+}
+p {
+  color: brown;
+  font-style:normal;
+  text-align: justify;
+}

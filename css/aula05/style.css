@@ -1,0 +1,17 @@
+.primeiro{
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-right: 25px;
+  padding-left: 40px;
+}
+.segundo{
+  border: solid 10px red;
+  padding: 15px;
+
+  margin: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+
+}
