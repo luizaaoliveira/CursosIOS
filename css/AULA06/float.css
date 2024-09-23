@@ -1,0 +1,14 @@
+div {
+  margin: 2em;
+}
+.container { 
+  border: solid 1px rgb(255, 128, 0);
+  overflow: auto;
+}
+img{
+  border: solid 1px rgb(29, 88, 29);
+  float: right;
+}
+.par2{
+  clear: right;
+}

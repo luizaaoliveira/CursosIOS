@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 62,5%;
+}
+h1:hover{
+  background-color: blueviolet;
+}
+h2:first-of-type {
+   background-color: aqua;
+}
+.primeiro:active{
+  background-color: blue;
+}
